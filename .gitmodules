@@ -1,0 +1,6 @@
+[submodule "todo_api"]
+	path = todo_api
+	url = ./todo_api
+[submodule "todo_web"]
+	path = todo_web
+	url = ./todo_web
